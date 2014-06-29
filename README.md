@@ -10,3 +10,5 @@ Hotel Booking System - Setup
 3. Upload the folder 'upload' to your server
 
 4. Enjoy your new hotel booking system!
+
+Pro Tip: Check out images.rar for screenshots!
