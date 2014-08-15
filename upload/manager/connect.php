@@ -4,7 +4,7 @@
 	$currency = "$";
     $username = "username"; //root 
     $password = "password"; //usually empty
-    $host = "localhost";//connection hostname, leave localhost if the database is hoted on this computer
+    $host = "localhost";//connection hostname, leave localhost if the database is hosted on this computer
     $dbname = "hotel"; //database name
 
     // UTF-8 is a character encoding scheme that allows you to conveniently store 
